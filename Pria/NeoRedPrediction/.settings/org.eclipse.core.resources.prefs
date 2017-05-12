@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding/Clarity.py=utf-8
+encoding/Relevance.py=utf-8
+encoding/Smoothness.py=utf-8
+encoding/graphClarity.py=utf-8
+encoding/graphRelevance.py=utf-8
+encoding/graphSmoothness.py=utf-8
+encoding/latest.py=utf-8
+encoding/nerGraphClarity.py=utf-8
+encoding/nerGraphRelevance.py=utf-8
+encoding/nerGraphSmoothness.py=utf-8

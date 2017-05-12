@@ -27,15 +27,12 @@ class RssHeadline:
 
 #if __name__ == "__main__":
 def all_cat():    
-    categories = {'Top Stories':"https://news.google.com/?cf=all&num=100&ned=us&output=rss", 
-                  'World':"https://news.google.com/?cf=all&num=100&ned=us&topic=w&output=rss", 
-                  'Technology':"https://news.google.com/?num=100&cf=all&topic=tc&output=rss", 
-                  'Entertainment':"https://news.google.com/?cf=all&num=100&topic=e&output=rss", 
-                  'Sports':"https://news.google.com/?num=100&cf=all&topic=s&output=rss", 
-                  'Science':"https://news.google.com/?num=100&cf=all&topic=snc&output=rss", 
-                  'Business':"https://news.google.com/?cf=all&num=100&topic=b&output=rss",
-                  'Health':"https://news.google.com/?num=100&cf=all&topic=m&output=rss", 
-                  'More Top Stories':"https://news.google.com/?num=100&cf=all&topic=h&output=rss"
+    categories = {'Top Stories':"https://news.google.com/?cf=all&num=40&ned=us&output=rss", 
+                  'Technology':"https://news.google.com/?num=40&cf=all&topic=tc&output=rss", 
+                  'Entertainment':"https://news.google.com/?cf=all&num=40&topic=e&output=rss", 
+                  'Sports':"https://news.google.com/?num=40&cf=all&topic=s&output=rss", 
+                  'Science':"https://news.google.com/?num=40&cf=all&topic=snc&output=rss", 
+                  'Business':"https://news.google.com/?cf=all&num=40&topic=b&output=rss",
                   }
     
     newsFeed = {}
